@@ -1,7 +1,3 @@
-Here’s a well-structured and detailed **README.md** file for your app:
-
----
-
 # **Personal Safety App**
 
 A React Native-based mobile application designed to enhance personal safety by providing instant access to emergency features like real-time location sharing and safe navigation through an interactive map interface. The app aims to empower users with tools to quickly alert trusted contacts and navigate safely in emergency situations.
